@@ -1,0 +1,1 @@
+Spring Boot Webflux project with actuator and jolokia endpoint to expose jmx and mbeans 
